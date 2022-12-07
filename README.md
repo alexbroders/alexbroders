@@ -22,7 +22,7 @@ _ _ _
 <img align="left" alt="DrRacket" width="45px" style="padding-right:10px;" src="https://racket-lang.org/img/racket-logo.svg"/>
 <br/>
 <br/>
-_ _ _
+__________________________________________________________________________________________________________________________ 
 
 <details>
   <summary><h3>Academic Journey</h3></summary>
